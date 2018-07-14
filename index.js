@@ -6,3 +6,6 @@ function destructivelyAppendDriver(name) {
 function destructivelyPrependDriver(name) {
   drivers.unshift(name);
 }
+
+function destructivelyRremoveDriver(name) { 
+  
