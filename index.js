@@ -25,4 +25,6 @@ function prependDriver(name) {
   return newDrivers;
 }
 
-function removeDriver(name)
+function removeLastDriver() {
+  
+}
